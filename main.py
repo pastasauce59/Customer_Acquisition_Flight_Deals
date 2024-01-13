@@ -1,5 +1,5 @@
-import requests
 import os
+import requests
 
 print(
     "Welcome to Michael's Flight Club.\nWe find the best flight deals and email you."
